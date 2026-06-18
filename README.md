@@ -1,5 +1,4 @@
 # layout-Umbro
-# layout2c
 
 # Site da Equipe Alura Start! 
 
