@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #ffffff;
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -34,7 +34,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#000000,#000000);
+    background-image: linear-gradient(#ffffff,#ffffff);
     color:white;
     display: flex;
     justify-content: center;
